@@ -5,6 +5,7 @@ using namespace std;
 //to define the defined func after main
 //declare prototype before or it'll throw error
 
+//formal parameters
 int mul(int a, int b);
 
 int main(){
@@ -14,6 +15,7 @@ int main(){
     //power & squareroot - std lib cmath
 
     cout<<pow(3,4)<<endl; //3^4
+    //actual parameters
     cout<<sqrt(49)<<endl; 
 
     cout<<sqrt(35)<<endl; //5.91...
