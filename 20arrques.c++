@@ -22,7 +22,7 @@ int main(){
     }
     cout<<max<<endl;
 
-    //element search ex:3
+    //element search ex:6
     //return element index if present in array else -1
     int arey[]={1,2,3,4,5};
     int ans=-1;
